@@ -85,3 +85,22 @@ see our [guidelines for contributing](CONTRIBUTING.md).
 Built with ❤️ by the Jitsi team at <a href="https://8x8.com" target="_blank">8x8</a> and our community.
 </p>
 </footer>
+
+---
+
+## 📜 License & Copyright
+
+**Copyright © 2026 BlackRoad OS, Inc. All Rights Reserved.**
+
+**CEO:** Alexa Amundson | **PROPRIETARY AND CONFIDENTIAL**
+
+This software is NOT for commercial resale. Testing purposes only.
+
+### 🏢 Enterprise Scale:
+- 30,000 AI Agents
+- 30,000 Human Employees
+- CEO: Alexa Amundson
+
+**Contact:** blackroad.systems@gmail.com
+
+See [LICENSE](LICENSE) for complete terms.
